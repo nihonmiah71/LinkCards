@@ -10,7 +10,7 @@ Dieses Add-on fügt dem Anki Browser eine Funktion hinzu, um ausgewählte Karten
 2. **Abhängiges Add-on:** Zur **Anzeige** der erzeugten Links auf der Karte musst du das Add-on **"Hyperlink Note IDs"** installieren.
     * **AnkiWeb Code:** **1423933177**
 
-Dieses Add-on wurde speziell für Notiztypen wie **"MiningSimple"** entwickelt und getestet.
+Dieses Add-on wurde speziell für Notiztypen wie **"miningsimple"** entwickelt und getestet.
 
 ## Installation
 Lade den Ordner herunter und verschiebe ihn in deinen Anki Add-ons Ordner.
